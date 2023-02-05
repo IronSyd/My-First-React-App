@@ -1,0 +1,1 @@
+I started building with React by creating this simple Movie search aplication which fetches data from an external API.
